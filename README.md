@@ -1,0 +1,2 @@
+# parallelism_in_intel
+FUNDAMENTALS OF PARALLELISM IN INTEL
